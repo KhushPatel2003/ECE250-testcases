@@ -1,0 +1,222 @@
+success
+failure
+failure
+success
+size is 0
+failure
+failure
+empty 1
+deque is empty
+success
+success
+success
+success
+success
+size is 5
+front is "vraj" "vraj.com"
+back is "khush" "khush.com"
+empty 0
+"khush" "khush.com"
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+"vraj" "vraj.com"
+success
+success
+size is 3
+front is "dev" "dev.com"
+back is "anmol" "anmol.com"
+empty 0
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+size is 5
+front is "khush" "khush.com"
+back is "vraj" "vraj.com"
+empty 0
+"vraj" "vraj.com"
+"dev" "dev.com"
+"rayan" "rayan.com"
+"anmol" "anmol.com"
+"khush" "khush.com"
+success
+success
+size is 3
+front is "anmol" "anmol.com"
+back is "dev" "dev.com"
+empty 0
+"dev" "dev.com"
+"rayan" "rayan.com"
+"anmol" "anmol.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+size is 5
+front is "anmol" "anmol.com"
+back is "vraj" "vraj.com"
+empty 0
+"vraj" "vraj.com"
+"dev" "dev.com"
+"rayan" "rayan.com"
+"khush" "khush.com"
+"anmol" "anmol.com"
+success
+success
+size is 3
+front is "khush" "khush.com"
+back is "dev" "dev.com"
+empty 0
+"dev" "dev.com"
+"rayan" "rayan.com"
+"khush" "khush.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+size is 5
+front is "vraj" "vraj.com"
+back is "anmol" "anmol.com"
+empty 0
+"anmol" "anmol.com"
+"khush" "khush.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+"vraj" "vraj.com"
+success
+success
+size is 3
+front is "dev" "dev.com"
+back is "khush" "khush.com"
+empty 0
+"khush" "khush.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+size is 5
+front is "vraj" "vraj.com"
+back is "vraj" "vraj.com"
+empty 0
+"vraj" "vraj.com"
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+"vraj" "vraj.com"
+success
+success
+size is 3
+front is "dev" "dev.com"
+back is "anmol" "anmol.com"
+empty 0
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+size is 5
+front is "vraj" "vraj.com"
+back is "vraj" "vraj.com"
+empty 0
+"vraj" "vraj.com"
+"dev" "dev.com"
+"rayan" "rayan.com"
+"anmol" "anmol.com"
+"vraj" "vraj.com"
+success
+success
+size is 3
+front is "anmol" "anmol.com"
+back is "dev" "dev.com"
+empty 0
+"dev" "dev.com"
+"rayan" "rayan.com"
+"anmol" "anmol.com"
+found "dev" "dev.com"
+not found "meow"
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+"khush" "khush.com"
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+"vraj" "vraj.com"
+success
+success
+success
+success
+success
+deque is empty
+success
+success
+success
+success
+success
+success
+success
+success
+success
+"khush" "khush.com"
+"anmol" "anmol.com"
+"rayan" "rayan.com"
+"dev" "dev.com"
+"vraj" "vraj.com"
+success
+success
+success
+success
+success
+deque is empty
+success
+success
+success
+success
+success
+success
+success
+success
+success

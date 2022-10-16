@@ -1,0 +1,179 @@
+m 5
+pop_front
+pop_back
+clear
+size
+front
+back
+empty
+print
+push_front "khush" "khush.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_front "khush" "khush.com"
+push_front "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_front "khush" "khush.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+size
+front
+back
+empty
+print
+pop_front
+pop_back
+size
+front
+back
+empty
+print
+find "dev"
+find "meow"
+clear
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+print
+pop_front
+pop_front
+pop_front
+pop_front
+pop_front
+print
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+print
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+print
+push_back "khush" "khush.com"
+push_back "anmol" "anmol.com"
+push_back "rayan" "rayan.com"
+push_back "dev" "dev.com"
+push_back "vraj" "vraj.com"
+push_front "anmol" "anmol.com"
+push_front "rayan" "rayan.com"
+push_front "dev" "dev.com"
+push_front "vraj" "vraj.com"
+exit
