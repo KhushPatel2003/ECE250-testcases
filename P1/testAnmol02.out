@@ -1,0 +1,121 @@
+success
+success
+success
+empty 0
+"google" "google.com"
+"github" "github.com"
+success
+success
+success
+size is 2
+success
+found "data structures" "data-structures.com"
+success
+success
+front is "f1" "f1.com"
+empty 0
+success
+success
+success
+success
+success
+success
+found "lebron" "lebron.com"
+found "giannis" "giannis.com"
+not found "kyrie"
+found "nba" "nba.com"
+not found "lebron.com"
+"future" "future.com"
+"drake" "drake.com"
+"algorithms" "algorithms.com"
+"nba" "nba.com"
+"f1" "f1.com"
+"lebron" "lebron.com"
+"anmol" "anmol.com"
+"kd" "kd.com"
+"giannis" "giannis.com"
+not found "data structures"
+empty 0
+success
+success
+back is "drake" "drake.com"
+front is "kd" "kd.com"
+size is 7
+"drake" "drake.com"
+"algorithms" "algorithms.com"
+"nba" "nba.com"
+"f1" "f1.com"
+"lebron" "lebron.com"
+"anmol" "anmol.com"
+"kd" "kd.com"
+empty 0
+success
+deque is empty
+empty 1
+size is 0
+success
+success
+success
+success
+success
+success
+success
+success
+success
+success
+front is "nba" "nba.com"
+back is "anmol" "anmol.com"
+success
+size is 9
+empty 0
+success
+back is "meta" "meta.com"
+front is "leetcode" "leetcode.com"
+success
+front is "block" "block.com"
+success
+success
+success
+"meta" "meta.com"
+"google" "google.com"
+"stripe" "stripe.com"
+"square" "square.com"
+success
+success
+empty 0
+success
+found "stripe" "stripe.com"
+found "raptors" "raptors.com"
+not found "netflix"
+success
+not found "block"
+back is "google" "google.com"
+front is "stripe" "stripe.com"
+success
+"google" "google.com"
+front is "google" "google.com"
+empty 0
+size is 1
+not found "net flix"
+not found "meta"
+empty 0
+success
+success
+success
+success
+success
+back is "google" "google.com"
+success
+front is "tesla" "tesla.com"
+success
+"amazon" "amazon.com"
+"uber" "uber.com"
+"hrt" "hrt.com"
+"citadel" "citadel.com"
+empty 0
+size is 4
+success
+size is 0
+failure
+deque is empty
+failure

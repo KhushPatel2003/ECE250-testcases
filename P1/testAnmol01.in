@@ -1,0 +1,102 @@
+m 10
+push_front "github" "github.com"
+push_back "google" "google.com"
+empty
+print
+clear
+push_front "nba" "nba.com"
+push_front "f1" "f1.com"
+size
+push_front "data structures" "data-structures.com"
+find "data structures"
+push_back "algorithms" "algorithms.com"
+pop_front
+front
+empty
+push_front "lebron" "lebron.com"
+push_front "anmol" "anmol.com"
+push_front "kd" "kd.com"
+push_front "giannis" "giannis.com"
+push_back "drake" "drake.com"
+push_back "future" "future.com"
+find "lebron"
+find "giannis"
+find "kyrie"
+find "nba"
+find "lebron.com"
+print
+find "data structures"
+empty
+pop_front
+pop_back
+back
+front
+size
+print
+empty
+clear
+print
+empty
+size
+push_back "stripe" "stripe.com"
+push_front "square" "square.com"
+push_back "google" "google.com"
+push_front "github" "github.com"
+push_front "netflix" "netflix.com"
+push_back "meta" "meta.com"
+push_front "block" "block.com"
+push_front "leetcode" "leetcode.com"
+push_back "anmol" "anmol.com"
+push_front "nba" "nba.com"
+orubt
+front
+back
+pop_front
+size
+empty
+pop_back
+back
+front
+pop_front
+front
+pop_front
+pop_front
+pop_front
+print
+pop_front
+pop_back
+empty
+push_back "raptors" "raptors.com"
+find "stripe"
+find "raptors"
+find "netflix"
+pop_back
+find "block"
+back
+front
+pop_front
+print
+front
+empty
+size
+find "net flix"
+find "meta"
+empty
+push_front "amazon" "amazon.com"
+push_front "uber" "uber.com"
+push_front "hrt" "hrt.com"
+push_front "citadel" "citadel.com"
+push_front "tesla" "tesla.com"
+back
+pop_back
+front
+pop_front
+print
+empty
+size
+clear
+size
+front
+print
+back
+exit
