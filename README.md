@@ -1,6 +1,6 @@
-#Test Cases - ECE '26
+# ECE 250 Test Cases - ECE '26
 
-<h3> This repo provides test cases for ECE 250 projects </h3>
+<h2> This repo provides test cases for ECE 250 projects </h2>
 
 # Contributors:
 <ul>
