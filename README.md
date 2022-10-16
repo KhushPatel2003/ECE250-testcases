@@ -1,5 +1,6 @@
-# ECE250-testcases
 # Contributors:
-# - Khush
-# - Rayan
-# - Anmol
+<ul>
+  <li>Khush</li>
+  <li>Rayan</li>
+  <li>Anmol</li>
+</ul>
