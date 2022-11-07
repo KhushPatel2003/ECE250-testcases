@@ -1,0 +1,63 @@
+m 8
+i 1 khush
+i 2 anmol
+i 3 rayan
+i 4 dev
+i 5 bilal
+i 6 kst
+i 7 lazeez
+i 8 penneys
+s 1
+s 2
+s 3
+s 4
+s 5
+s 6
+s 7
+s 8
+s 9
+i 1 khush
+i 2 anmol
+i 3 rayan
+i 4 dev
+i 5 bilal
+i 6 kst
+i 7 lazeez
+i 8 penneys
+d 1
+d 2
+d 3
+d 4
+d 5
+d 6
+d 7
+d 8
+s 1
+s 2
+s 3
+s 4
+s 5
+s 6
+s 7
+s 8
+s 9
+i 1 khush
+i 9 anmol
+i 25 rayan
+i 17 dev
+i 18 bilal
+i 26 kst
+i 27 lazeez
+i 123 penneys
+s 1
+s 9
+s 25
+s 17
+s 18
+s 26
+s 27
+s 123
+d 17
+s 25
+i 17
+s 17
