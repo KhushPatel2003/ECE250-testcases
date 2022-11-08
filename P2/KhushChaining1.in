@@ -1,0 +1,54 @@
+m 4
+s 1
+s 2
+s 3
+s 4
+d 1
+d 2
+d 3
+d 4
+i 1 "stripe"
+i 2 "crusie"
+i 3 "brex"
+i 4 "vanta"
+s 1
+s 2
+s 3
+s 4
+p 0
+p 1
+p 2
+p 3
+d 1
+d 2
+d 3
+d 4
+i 4 "stripe"
+i 8 "crusie"
+i 12 "brex"
+i 16 "vanta"
+s 4
+s 8
+s 12
+s 16
+s 20
+p 0
+p 1
+p 2
+p 3
+d 4
+d 8
+d 12
+d 16
+d 20
+i 4 "stripe"
+i 8 "crusie"
+i 12 "brex"
+i 16 "vanta"
+i 5 "a"
+i 9 "b"
+i 13 "c"
+i 17 "d"
+p 0
+p 1
+p 2
