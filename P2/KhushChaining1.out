@@ -1,0 +1,54 @@
+success
+not found
+not found
+not found
+not found
+failure
+failure
+failure
+failure
+success
+success
+success
+success
+found "stripe" in 1
+found "crusie" in 2
+found "brex" in 3
+found "vanta" in 0
+4
+1
+2
+3
+success
+success
+success
+success
+success
+success
+success
+success
+found "stripe" in 0
+found "crusie" in 0
+found "brex" in 0
+found "vanta" in 0
+not found
+16 12 8 4
+chain is empty
+chain is empty
+chain is empty
+success
+success
+success
+success
+failure
+success
+success
+success
+success
+success
+success
+success
+success
+16 12 8 4
+17 13 9 5
+chain is empty
